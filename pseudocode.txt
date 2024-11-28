@@ -1,0 +1,4 @@
+1. The Computer picks a random Choice of Rock, Paper or Scissors.
+2. The Player is asked via Prompt of his Choice.
+3. Declare the winner of the battle.
+4. Reset the game and make a loop.

@@ -1,0 +1,3 @@
+This is a Project along the TOP-Jorney.
+
+! THIS GAME CAN ONLY BE PLAYED IN THE BROWSER CONSOLE!

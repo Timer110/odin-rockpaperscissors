@@ -1,3 +1,5 @@
 This is a Project along the TOP-Jorney.
 
-! THIS GAME CAN ONLY BE PLAYED IN THE BROWSER CONSOLE!
+Changelog 29.12.24:
+
+Added a functionable UI, to play the Game as User without entering the Console.

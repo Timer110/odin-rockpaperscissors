@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: lightcyan;
+}
+
+#scoreDisplay{
+    font-size: 32px;
+    margin-top: 200px;
+}
+
+.buttons {
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+
+#rock, #paper, #scissors {
+    min-width: 250px;
+    font-size: 50px;
+    padding: 20px;
+    background-color: light-grey;
+}
+
+#rock:hover, #paper:hover, #scissors:hover {
+    background-color: grey;
+}
+
+#result{
+    display: Block;
+    width: 700px;
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin-top: 50px;
+    padding: 20px; 
+    text-align: center;
+}
+
+#resultPara{
+    font-size: 32px;
+    font-weight: 800;
+}
